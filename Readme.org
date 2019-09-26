@@ -1,0 +1,11 @@
+#+TITLE: testing testinfra
+#+DATE: Thursday, Sep 26 2019
+
+* NO TIME FOR READMEZ
+
+* Run Test
+  #+begin_src bash
+  pytest -s -v test_os.py
+  #+end_src
+
+  #+RESULTS:
